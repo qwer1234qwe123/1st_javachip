@@ -43,12 +43,16 @@
 
 ### Clone project (https)
 ```powershell
-git clone https://github.com/g34634/1st_javaChip.git
+git clone https://github.com/qwer1234qwe123/1st_javaChip.git
 ```
 ### Go to project
 ```powershell
 cd 1st_javaChip
 ```
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
