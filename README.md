@@ -43,11 +43,11 @@
 
 ### Clone project (https)
 ```powershell
-git clone https://github.com/g34634/1st-Project_JavaChip.git
+git clone https://github.com/g34634/1st_JavaChip.git
 ```
 ### Go to project
 ```powershell
-cd 1st-Project_JavaChip
+cd 1st_JavaChip
 ```
 
 
